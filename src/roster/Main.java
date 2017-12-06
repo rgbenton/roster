@@ -14,5 +14,6 @@ public class Main {
 	private static void populateRoster()
 	{
 		Roster.getInstance().addStudent("Benton, Ryan G.");
+		Roster.getInstance().addStudent("Peavey, Christian I.");
 	}
 }
